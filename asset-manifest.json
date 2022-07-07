@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kodecamp-tailwind-task/static/css/main.e7b5288e.css",
+    "main.js": "/kodecamp-tailwind-task/static/js/main.314dc545.js",
+    "static/js/787.7fdcd5ce.chunk.js": "/kodecamp-tailwind-task/static/js/787.7fdcd5ce.chunk.js",
+    "static/media/sideImg.png": "/kodecamp-tailwind-task/static/media/sideImg.168c15a6fa0cf917ffd9.png",
+    "index.html": "/kodecamp-tailwind-task/index.html",
+    "main.e7b5288e.css.map": "/kodecamp-tailwind-task/static/css/main.e7b5288e.css.map",
+    "main.314dc545.js.map": "/kodecamp-tailwind-task/static/js/main.314dc545.js.map",
+    "787.7fdcd5ce.chunk.js.map": "/kodecamp-tailwind-task/static/js/787.7fdcd5ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b5288e.css",
+    "static/js/main.314dc545.js"
+  ]
+}
